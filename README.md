@@ -1,11 +1,11 @@
-#Consumption Decision Analysis
-#Full Report
+# Consumption Decision Analysis
+# Full Report
 
 The full project report is available here:
 
 [Download Report](report/Consumption_Decision_Report.pdf)
 
-##Project Overview
+## Project Overview
 
 This project analyzes survey data from young adults to understand the key factors influencing monthly consumption decisions. The goal is to identify whether demographic characteristics and location significantly affect spending behavior.
 
@@ -13,7 +13,7 @@ This project was completed using R for statistical analysis and visualization.
 
 ---
 
-##Research Questions
+## Research Questions
 
 1. Does location influence monthly spending levels?
 2. Are demographic factors associated with consumption differences?
@@ -21,7 +21,7 @@ This project was completed using R for statistical analysis and visualization.
 
 ---
 
-##Dataset Description
+## Dataset Description
 
 - Sample size: 30 respondents
 - Target variable: Monthly Spending (RMB)
@@ -35,7 +35,7 @@ Due to the relatively small sample size, results should be interpreted cautiousl
 
 ---
 
-##Methodology
+## Methodology
 
 The analysis includes:
 
@@ -51,7 +51,7 @@ Statistical tools used:
 
 ---
 
-##Key Findings
+## Key Findings
 
 - Spending distributions vary slightly by location.
 - Some demographic variables show moderate association with spending.
@@ -59,13 +59,9 @@ Statistical tools used:
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 - R
 - ggplot2
 - Linear Regression
 - Data Visualization
-
----
-
-## 📂 Project Structure
