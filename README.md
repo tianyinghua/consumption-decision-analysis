@@ -3,7 +3,7 @@
 
 The full project report is available here:
 
-[Download Report](report/Consumption_Decision_Report.pdf)
+[Download Full Report (PDF)](./report/report_Consumption Decision.pdf)
 
 ## Project Overview
 
