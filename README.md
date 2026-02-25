@@ -3,7 +3,7 @@
 
 The full project report is available here:
 
-[[Download Full Report (PDF)](./report/report_Consumption Decision.pdf)](https://github.com/tianyinghua/consumption-decision-analysis/blob/26af8a6a03e64458cadedd438732478f2d612dba/report/report_Consumption%20Decision%20.pdf)
+[Download Full Report (PDF)](./report/report_Consumption Decision.pdf)
 
 ## Project Overview
 
